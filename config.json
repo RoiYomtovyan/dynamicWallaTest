@@ -1,0 +1,6 @@
+{
+    "driverType": "webdriver.chrome.driver",
+    "driverLocation": "chromedriver.exe",
+    "url": "https://www.walla.co.il/",
+    "currentEuroValue": "4.0428"
+}
